@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="618816a2-c8c2-4205-82fc-821a48708fb7" name="next.js">
-        <fileTransfer rootFolder="/home/miradata/www/maxdev/public_html/next.js" accessType="SFTP" host="92.63.103.195" port="40533" sshConfigId="6e6b2179-ad6d-4e0c-b1b5-e24b954f6128" sshConfig="stinkyfrost@92.63.103.195:40533 password">
+      <webServer id="b1bc07f8-984b-4bf8-a24b-fb589830c170" name="next.js">
+        <fileTransfer rootFolder="/home/miradata/www/maxdev/public_html/next.js" accessType="SFTP" host="92.63.103.195" port="40533" sshConfigId="b418c07e-5ade-4df1-b26f-8a1222369598" sshConfig="stinkyfrost@92.63.103.195:40533 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
